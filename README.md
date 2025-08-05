@@ -103,3 +103,12 @@ To analyze startup funding trends in India and:
   - Decision Tree, Logistic Regression, Random Forest  
 - Evaluate with accuracy and feature importance  
 
+## 👨‍💻 Contributors
+
+- Amit Raj
+- Hitesh Kumar  
+- Akul Khandelwal  
+- Anshul Rawat    
+- Tannu Rana  
+- Nisha  
+- Anjali 
