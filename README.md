@@ -106,9 +106,9 @@ To analyze startup funding trends in India and:
 ## 👨‍💻 Contributors
 
 - Amit Raj
-- Hitesh Kumar  
+- Hitesh Kumar
+- Anshul Rawat  
 - Akul Khandelwal  
-- Anshul Rawat    
 - Tannu Rana  
 - Nisha  
 - Anjali 
